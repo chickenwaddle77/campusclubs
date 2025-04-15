@@ -9,7 +9,7 @@ Database - PostgreSQL on Supabase
 
 # Getting Started #
 
-Make sure to get the API key. \
+Make sure to get the API key if contributing. \
 \
 To download packages, run `npm install` \
 To start server, run `node index.js`
