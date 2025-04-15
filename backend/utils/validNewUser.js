@@ -21,7 +21,7 @@ async function validNewUser(newUserDetail) {
         return { result: false, message: 'Invalid role' };
     }
 
-    return true;
+    return {result: true, message: 'Valid new user'};
 }
 
 export default validNewUser;
