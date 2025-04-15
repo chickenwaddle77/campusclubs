@@ -1,4 +1,7 @@
+# campusclubs #
 
+An ongoing project to create a website where clubs can recruit new members and students can find opportunities!
+\
 # Getting Started #
 
 Make sure to get the API key. \
